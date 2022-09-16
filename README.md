@@ -1,11 +1,8 @@
-# 《最终幻想14》生产模拟器 v6.2
-本项目是一个分支项目，主要针对《最终幻想14》国服和国际服的内容，对生产模拟器（FFXIV Crafting Optimizer）进行汉化、优化和修改。
-
-国服、国际服通用项目（适配游戏客户端 国服 v6.1 / 国际服 v6.2）：[国内访问](https://yyyy.games/crafter/) / [国外访问](http://ffxiv.tk/crafter/)
-
 # FFXIV Crafting Optimizer Website
 
 This project contains the source for the [FFXIV Crafting Optimizer Website](http://ffxiv.lokyst.net/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
+
+# Last Updated for Patch 6.2
 
 ### Running the app during development
 
