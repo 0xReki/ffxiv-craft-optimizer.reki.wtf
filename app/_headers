@@ -1,4 +1,4 @@
 /*
   Cache-Control: no-cache, private, max-age=300
   Expect-CT: enforce, max-age=2592000
-  Content-Security-Policy: upgrade-insecure-requests; default-src 'self' reki.wtf *.reki.wtf *.cloudfront.net
+  Content-Security-Policy: upgrade-insecure-requests; default-src 'self' reki.wtf *.reki.wtf *.cloudfront.net; style-src 'self' 'unsafe-inline' reki.wtf *.reki.wtf *.cloudfront.net;
