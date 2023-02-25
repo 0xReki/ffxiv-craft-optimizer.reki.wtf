@@ -4,7 +4,7 @@
     "Official Version": "返回正式版",
     "Beta Version": "访问测试版",
 
-    "FFXIV Crafting Optimizer": "《最终幻想14》生产模拟器 v6.21",
+    "FFXIV Crafting Optimizer": "《最终幻想14》生产模拟器 v6.3",
 
     "Basic Synthesis": "制作",
     "Basic Touch": "加工",
@@ -124,6 +124,7 @@
     "NAV_SOLVER": "求解器（求求你们别再用了 它只是个玩具）",
     "NAV_CRAFTER_ATTRIBUTES": "状态参数",
     "NAV_DEBUG": "调试模式",
+    "NAV_EXPERT": "高难配方模拟器（测试版玩具）",
     "MORE": "更多...",
     "SETTINGS_MANAGEMENT": "导入/导出设置...",
     "ABOUT": "关于",
