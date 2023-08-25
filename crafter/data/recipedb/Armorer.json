@@ -4736,7 +4736,7 @@
     "level": 90,
     "maxQuality": 1375,
     "name": {
-      "cn": "庄园圆号",
+      "cn": "庄园大号",
       "de": "Horn",
       "en": "Manor Marching Horn",
       "fr": "Cor du Manoir",
@@ -11292,7 +11292,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Simple Sink",
+      "cn": "简易水槽",
       "de": "Schlichtes Spülbecken",
       "en": "Simple Sink",
       "fr": "Évier simple",
@@ -11314,7 +11314,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Waterfall Partition",
+      "cn": "水幕隔离墙",
       "de": "Wasser-Raumteiler",
       "en": "Waterfall Partition",
       "fr": "Cloison ruisselante",
@@ -11325,6 +11325,94 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5512,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Metal Pipe Wall Shelf",
+      "de": "Metallröhren-Wandregal",
+      "en": "Metal Pipe Wall Shelf",
+      "fr": "Étagère murale de tuyaux métalliques",
+      "ja": "メタルパイプ・ウォールシェルフ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5526,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Imitation Closed Door",
+      "de": "„Verbotene Tür“-Imitation ",
+      "en": "Imitation Closed Door",
+      "fr": "Imitation de porte fermée",
+      "ja": "イミテーション・クローズドドア"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5539,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Wall-mounted Pot Rack",
+      "de": "Topfregal",
+      "en": "Wall-mounted Pot Rack",
+      "fr": "Porte-casseroles",
+      "ja": "ポットハンガー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5540,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Imitation Vault",
+      "de": "Tresor-Imitation",
+      "en": "Imitation Vault",
+      "fr": "Imitation de coffre fort",
+      "ja": "イミテーションボールト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5546,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -23766,7 +23854,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Musicking Station Component",
+      "cn": "舞台重要部件",
       "de": "Bühnenbaustoff",
       "en": "Musicking Station Component",
       "fr": "Élément de scène",
@@ -23788,7 +23876,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Machining Supplies",
+      "cn": "开发机械的必需品",
       "de": "Maschinenelemente",
       "en": "Machining Supplies",
       "fr": "Élément de machine",
@@ -23810,7 +23898,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Restaurant-grade Supplies",
+      "cn": "出品菜肴的必需品",
       "de": "Küchenkomponenten",
       "en": "Restaurant-grade Supplies",
       "fr": "Élément de cuisine",
@@ -23832,7 +23920,7 @@
     "level": 430,
     "maxQuality": 6900,
     "name": {
-      "cn": "Painting Supplies",
+      "cn": "画材必需品",
       "de": "Künstlerutensilien",
       "en": "Painting Supplies",
       "fr": "Élément de fresque",
@@ -23854,7 +23942,7 @@
     "level": 430,
     "maxQuality": 7360,
     "name": {
-      "cn": "Radio Equipment",
+      "cn": "搭建活动台必需品",
       "de": "Radiostation-Bestandteile",
       "en": "Radio Equipment",
       "fr": "Élément de radio",
@@ -23876,7 +23964,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Audio Spare Parts",
+      "cn": "音箱调音设备",
       "de": "Ersatzteil für Audiogeräte",
       "en": "Audio Spare Parts",
       "fr": "Pièces de rechange de sonorisation",
@@ -23898,7 +23986,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Wind Instrument Component",
+      "cn": "管乐器部件",
       "de": "Blasinstrumentbestandteil",
       "en": "Wind Instrument Component",
       "fr": "Composant d'instrument à vent",
@@ -23920,7 +24008,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Coin Manufacturing Component",
+      "cn": "货币制造工具",
       "de": "Münzherstellungselement",
       "en": "Coin Manufacturing Component",
       "fr": "Ustensile de création de monnaie",
@@ -23942,7 +24030,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Signed Memorabilia",
+      "cn": "署名纪念品",
       "de": "Signiertes Erinnerungsstück",
       "en": "Signed Memorabilia",
       "fr": "Souvenir gravé",
@@ -23964,7 +24052,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Lighting Parts",
+      "cn": "灯饰替换部件",
       "de": "Element zur Wartung der Beleuchtungsanlage",
       "en": "Lighting Parts",
       "fr": "Composant de décoration lumineuse",
@@ -23986,7 +24074,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Carrotlight Pieces",
+      "cn": "携带式荧光棒部件",
       "de": "Leuchtstabbestandteil",
       "en": "Carrotlight Pieces",
       "fr": "Composant de bâton lumineux",
@@ -24008,7 +24096,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Cleaner Upgrade Component",
+      "cn": "清扫机改良部件",
       "de": "Bestandteil für verbesserten Reiniger",
       "en": "Cleaner Upgrade Component",
       "fr": "Composant d'unité de nettoyage",
@@ -24030,7 +24118,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Audio Recording Component",
+      "cn": "录音协助机开发部件",
       "de": "Element des Aufnahme-Supports",
       "en": "Audio Recording Component",
       "fr": "Composant d'unité d'enregistrement sonore",
@@ -24052,7 +24140,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Parasital Infection Protection Suit Component",
+      "cn": "气密性防护服部件",
       "de": "Schutzanzugdichtungselement",
       "en": "Parasital Infection Protection Suit Component",
       "fr": "Élément étanche de combinaison de protection",
@@ -24074,7 +24162,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Occult Paraphernalia",
+      "cn": "寻找刺激用的工具",
       "de": "Abenteuerspielzeugelement",
       "en": "Occult Paraphernalia",
       "fr": "Ustensile étrange et excitant",
@@ -24096,7 +24184,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Cookbook Printing Paraphernalia",
+      "cn": "印刷菜谱的工具",
       "de": "Rezeptdruckutensil",
       "en": "Cookbook Printing Paraphernalia",
       "fr": "Ustensile d'imprimerie",
@@ -24118,7 +24206,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Carrot Chiller Component",
+      "cn": "修理冷冻器的部件",
       "de": "Karottenfrosterelement",
       "en": "Carrot Chiller Component",
       "fr": "Composant de congélateur",
@@ -24140,7 +24228,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Loporrit's Gathering Tool Component",
+      "cn": "修理采集工具的部件",
       "de": "Pilzmesserzubehör",
       "en": "Loporrit's Gathering Tool Component",
       "fr": "Composant d'outil de récolte",
@@ -24162,7 +24250,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Popular Kitchen Goods",
+      "cn": "缺少的烹饪用品",
       "de": "Kochutensil",
       "en": "Popular Kitchen Goods",
       "fr": "Ustensile de cuisine",
@@ -24184,7 +24272,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "“Exercise Equipment”",
+      "cn": "健身用品",
       "de": "Sportutensil",
       "en": "“Exercise Equipment”",
       "fr": "Équipement de musculation",
@@ -24206,7 +24294,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Paint-mixer's Toolbox",
+      "cn": "涂料调和用品",
       "de": "Farbutensil",
       "en": "Paint-mixer's Toolbox",
       "fr": "Article de peinture",
@@ -24228,7 +24316,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Super Sudsy Soap Bars",
+      "cn": "超强力洗涤剂",
       "de": "Extrastarker Farbreiniger",
       "en": "Super Sudsy Soap Bars",
       "fr": "Article de produit détachant",
@@ -24250,7 +24338,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Fungi Fighter",
+      "cn": "对菌类兵器",
       "de": "Explosives Fungizid",
       "en": "Fungi Fighter",
       "fr": "Composant d'explosif",
@@ -24272,7 +24360,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Fashionable Thingums",
+      "cn": "时尚饰品",
       "de": "Modeaccessoire",
       "en": "Fashionable Thingums",
       "fr": "Accessoire de mode",
@@ -24294,7 +24382,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
@@ -24316,7 +24404,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
@@ -24338,7 +24426,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
@@ -24360,7 +24448,7 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
@@ -24382,7 +24470,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
@@ -24404,7 +24492,7 @@
     "level": 570,
     "maxQuality": 9028,
     "name": {
-      "cn": "Connoisseur's Ornate Door",
+      "cn": "面向收藏家的装饰门",
       "de": "Sammler-Ornamenttür",
       "en": "Connoisseur's Ornate Door",
       "fr": "Porte ornée de dilettante",
@@ -24426,7 +24514,7 @@
     "level": 580,
     "maxQuality": 11154,
     "name": {
-      "cn": "Connoisseur's Bench",
+      "cn": "面向收藏家的长椅",
       "de": "Sammler-Bank",
       "en": "Connoisseur's Bench",
       "fr": "Banc de dilettante",
@@ -24448,7 +24536,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Alembic",
+      "cn": "研究者蒸馏器",
       "de": "Ermittler-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Indagator's Alembic",
       "fr": "Alambic d'indagator",
@@ -24470,7 +24558,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Frypan",
+      "cn": "研究者煎锅",
       "de": "Ermittler-Bratpfanne",
       "en": "Indagator's Frypan",
       "fr": "Poêle à frire d'indagator",
@@ -24492,7 +24580,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Helmet of Gathering",
+      "cn": "研究者大地头灯帽",
       "de": "Ermittler-Helm des Eifers",
       "en": "Indagator's Helmet of Gathering",
       "fr": "Casque des ressources d'indagator",
@@ -24514,7 +24602,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Armguards of Gathering",
+      "cn": "研究者大地护臂",
       "de": "Ermittler-Armschützer des Eifers",
       "en": "Indagator's Armguards of Gathering",
       "fr": "Garde-bras des ressources d'indagator",
@@ -24536,7 +24624,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Paladin's Rubellux Arms",
+      "cn": "绯光骑士武具",
       "de": "Lupercus-Paladin-Rüstzeug (G.-St. 430)",
       "en": "Paladin's Rubellux Arms",
       "fr": "Attirail Rubeus pour paladin",
@@ -24558,7 +24646,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Bantam Train",
+      "cn": "小火车",
       "de": "Modelleisenbahn",
       "en": "Bantam Train",
       "fr": "Train petit mais costaud",
@@ -24580,7 +24668,7 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Hardware",
+      "cn": "家用獭獭喷泉金属材料",
       "de": "Garten-Otterborn-Metallteile",
       "en": "Smaller Water Otter Fountain Hardware",
       "fr": "Métaux pour fontaine ressourçante de jardin",
@@ -24591,6 +24679,402 @@
     "qualityDivider": 180,
     "qualityModifier": 100,
     "recipeId": 35495,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Shield",
+      "de": "Diadochen-Schild",
+      "en": "Diadochos Shield",
+      "fr": "Bouclier de diadoque",
+      "ja": "ディアドコス・シールド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35518,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Halfgloves of Fending",
+      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "en": "Diadochos Halfgloves of Fending",
+      "fr": "Mitaines de protecteur de diadoque",
+      "ja": "ディアドコス・ディフェンダーハーフグローブ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35521,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Poleyns of Fending",
+      "de": "Diadochen-Knieschützer der Verteidigung",
+      "en": "Diadochos Poleyns of Fending",
+      "fr": "Genouillères de protecteur de diadoque",
+      "ja": "ディアドコス・ディフェンダーポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35522,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Halfgloves of Maiming",
+      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "en": "Diadochos Halfgloves of Maiming",
+      "fr": "Mitaines d'abatteur de diadoque",
+      "ja": "ディアドコス・スレイヤーハーフグローブ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35526,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Poleyns of Maiming",
+      "de": "Diadochen-Knieschützer des Verstümmelns",
+      "en": "Diadochos Poleyns of Maiming",
+      "fr": "Genouillères d'abatteur de diadoque",
+      "ja": "ディアドコス・スレイヤーポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35527,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Halfgloves of Aiming",
+      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Zielens",
+      "en": "Diadochos Halfgloves of Aiming",
+      "fr": "Mitaines de pisteur de diadoque",
+      "ja": "ディアドコス・レンジャーハーフグローブ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35536,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Poleyns of Aiming",
+      "de": "Diadochen-Knieschützer des Zielens",
+      "en": "Diadochos Poleyns of Aiming",
+      "fr": "Genouillères de pisteur de diadoque",
+      "ja": "ディアドコス・レンジャーポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35537,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Earring of Fending",
+      "de": "Diadochen-Ohrring der Verteidigung",
+      "en": "Diadochos Earring of Fending",
+      "fr": "Boucle d'oreille de protecteur de diadoque",
+      "ja": "ディアドコス・ディフェンダーイヤリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35554,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Earring of Slaying",
+      "de": "Diadochen-Ohrring des Schlachtens",
+      "en": "Diadochos Earring of Slaying",
+      "fr": "Boucle d'oreille d'attaquant de diadoque",
+      "ja": "ディアドコス・アタッカーイヤリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35555,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Earring of Aiming",
+      "de": "Diadochen-Ohrring des Zielens",
+      "en": "Diadochos Earring of Aiming",
+      "fr": "Boucle d'oreille de pisteur de diadoque",
+      "ja": "ディアドコス・レンジャーイヤリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35556,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Earring of Healing",
+      "de": "Diadochen-Ohrring der Heilung",
+      "en": "Diadochos Earring of Healing",
+      "fr": "Boucle d'oreille de soigneur de diadoque",
+      "ja": "ディアドコス・ヒーラーイヤリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35557,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Earring of Casting",
+      "de": "Diadochen-Ohrring der Magie",
+      "en": "Diadochos Earring of Casting",
+      "fr": "Boucle d'oreille d'incantateur de diadoque",
+      "ja": "ディアドコス・キャスターイヤリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35558,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Softsilver Ingot",
+      "de": "Weichsilber-Barren",
+      "en": "Softsilver Ingot",
+      "fr": "Lingot d'argent ductile",
+      "ja": "ソフトシルバーインゴット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35576,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4620,
+    "durability": 60,
+    "level": 620,
+    "maxQuality": 12040,
+    "name": {
+      "cn": "Connoisseur's Aquarium",
+      "de": "Sammler-Aquarium",
+      "en": "Connoisseur's Aquarium",
+      "fr": "Aquarium de dilettante",
+      "ja": "好事家向けのアクアリウム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35602,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5280,
+    "durability": 60,
+    "level": 625,
+    "maxQuality": 13050,
+    "name": {
+      "cn": "Connoisseur's Escutcheon",
+      "de": "Sammler-Wappenschild",
+      "en": "Connoisseur's Escutcheon",
+      "fr": "Escuchon de dilettante",
+      "ja": "好事家向けのエスカッシャン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35610,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 8800,
+    "durability": 60,
+    "level": 641,
+    "maxQuality": 18040,
+    "name": {
+      "cn": "Uncharted Course Hardware",
+      "de": "Gymnastikutter-Metallteile",
+      "en": "Uncharted Course Hardware",
+      "fr": "Métal pour l'accrobranche insulaire",
+      "ja": "アスレチックシップの建築用金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35620,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Voidcast Barding",
+      "de": "Golbez-Harnisch",
+      "en": "Voidcast Barding",
+      "fr": "Barde de Golbez",
+      "ja": "ゴルベーザ・バード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35624,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Drowned King Sculpture",
+      "de": "Statue des Fluten-Elementarfürsten",
+      "en": "Drowned King Sculpture",
+      "fr": "Statuette du maître de l'eau",
+      "ja": "水禍の四天王像"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35641,
     "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700

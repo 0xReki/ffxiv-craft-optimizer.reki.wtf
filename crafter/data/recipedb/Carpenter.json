@@ -13272,7 +13272,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Faerie Door",
+      "cn": "妖灵门",
       "de": "Feentürchen",
       "en": "Faerie Door",
       "fr": "Porte féérique",
@@ -13294,7 +13294,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Rattan Sofa",
+      "cn": "热带风情沙发",
       "de": "Tropisches Sofa",
       "en": "Rattan Sofa",
       "fr": "Canapé tropical",
@@ -13316,7 +13316,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Faerie Round Table",
+      "cn": "妖灵圆桌",
       "de": "Feen-Rundtisch",
       "en": "Faerie Round Table",
       "fr": "Table ronde féérique",
@@ -13327,6 +13327,292 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5513,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Botanist's Work Table",
+      "de": "Gärtner-Schreibtisch",
+      "en": "Botanist's Work Table",
+      "fr": "Table de travail de botaniste",
+      "ja": "ボタニスト・ワークデスク"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5521,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Imitation Curtained Window",
+      "de": "„Fenster mit Vorhängen“-Imitation",
+      "en": "Imitation Curtained Window",
+      "fr": "Imitation de fenêtre à rideaux",
+      "ja": "イミテーション・カーテンウィンドウ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5522,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Floating Kitchen Cabinet",
+      "de": "Wand-Küchenschrank",
+      "en": "Floating Kitchen Cabinet",
+      "fr": "Cabinet de cuisine mural",
+      "ja": "ハンギング・キッチンキャビネット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5529,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Freestanding Rattan Hammock",
+      "de": "Tropische Gestell-Hängematte",
+      "en": "Freestanding Rattan Hammock",
+      "fr": "Hamac sur pied tropical",
+      "ja": "トロピカル・スタンドハンモック"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5530,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Rustic Log Table",
+      "de": "Rustikaler Holztisch",
+      "en": "Rustic Log Table",
+      "fr": "Table en rondin rustique",
+      "ja": "ラスティックログテーブル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5532,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Rustic Log Bench",
+      "de": "Rustikale Holzbank",
+      "en": "Rustic Log Bench",
+      "fr": "Banc en rondin rustique",
+      "ja": "ラスティックログベンチ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5533,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Vintage Side Table",
+      "de": "Antiquitäten-Beistelltisch",
+      "en": "Vintage Side Table",
+      "fr": "Table de chevet de collection",
+      "ja": "ヴィンテージサイドテーブル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5534,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Short Pillar Bookshelf",
+      "de": "Halbsäulen-Bücherregal",
+      "en": "Short Pillar Bookshelf",
+      "fr": "Bibliothèque circulaire",
+      "ja": "ハーフピラー・ブックシェルフ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5535,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Rattan Partition",
+      "de": "Tropischer Raumteiler",
+      "en": "Rattan Partition",
+      "fr": "Cloison tropicale",
+      "ja": "トロピカルパーティション"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5538,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Serving Barrel",
+      "de": "Servierfass",
+      "en": "Serving Barrel",
+      "fr": "Tonneau avec robinet",
+      "ja": "サーヴィングバレル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5541,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Country Swing Seat",
+      "de": "Veranda-Schaukel",
+      "en": "Country Swing Seat",
+      "fr": "Balançoire de jardin rustique",
+      "ja": "カントリー・ヤードスイング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5542,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Ivy-canopied Deck",
+      "de": "Holzveranda mit Efeu-Vordach",
+      "en": "Ivy-canopied Deck",
+      "fr": "Terrasse en bois recouverte de lierre",
+      "ja": "アイビーオーニング・ウッドデッキ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5544,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Far Eastern Indoor Bamboo Fountain",
+      "de": "Fernöstlicher Zimmerbrunnen",
+      "en": "Far Eastern Indoor Bamboo Fountain",
+      "fr": "Fontaine d'intérieur orientale",
+      "ja": "東方風室内竹噴水"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5547,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -25309,7 +25595,7 @@
       "cn": "獭獭喷泉建造用部件",
       "de": "Otterborn-Bauholz",
       "en": "Water Otter Fountain Lumber",
-      "fr": "Matériaux pour la fontaine ressourçante",
+      "fr": "Poutre pour la fontaine ressourçante",
       "ja": "ウソウソの泉の建築用部材"
     },
     "progressDivider": 180,
@@ -25438,7 +25724,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Musicking Station Component",
+      "cn": "舞台重要部件",
       "de": "Bühnenbaustoff",
       "en": "Musicking Station Component",
       "fr": "Élément de scène",
@@ -25460,7 +25746,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Machining Supplies",
+      "cn": "开发机械的必需品",
       "de": "Maschinenelemente",
       "en": "Machining Supplies",
       "fr": "Élément de machine",
@@ -25482,7 +25768,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Restaurant-grade Supplies",
+      "cn": "出品菜肴的必需品",
       "de": "Küchenkomponenten",
       "en": "Restaurant-grade Supplies",
       "fr": "Élément de cuisine",
@@ -25504,7 +25790,7 @@
     "level": 430,
     "maxQuality": 6900,
     "name": {
-      "cn": "Painting Supplies",
+      "cn": "画材必需品",
       "de": "Künstlerutensilien",
       "en": "Painting Supplies",
       "fr": "Élément de fresque",
@@ -25526,7 +25812,7 @@
     "level": 430,
     "maxQuality": 7360,
     "name": {
-      "cn": "Radio Equipment",
+      "cn": "搭建活动台必需品",
       "de": "Radiostation-Bestandteile",
       "en": "Radio Equipment",
       "fr": "Élément de radio",
@@ -25548,7 +25834,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Audio Spare Parts",
+      "cn": "音箱调音设备",
       "de": "Ersatzteil für Audiogeräte",
       "en": "Audio Spare Parts",
       "fr": "Pièces de rechange de sonorisation",
@@ -25570,7 +25856,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Wind Instrument Component",
+      "cn": "管乐器部件",
       "de": "Blasinstrumentbestandteil",
       "en": "Wind Instrument Component",
       "fr": "Composant d'instrument à vent",
@@ -25592,7 +25878,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Coin Manufacturing Component",
+      "cn": "货币制造工具",
       "de": "Münzherstellungselement",
       "en": "Coin Manufacturing Component",
       "fr": "Ustensile de création de monnaie",
@@ -25614,7 +25900,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Signed Memorabilia",
+      "cn": "署名纪念品",
       "de": "Signiertes Erinnerungsstück",
       "en": "Signed Memorabilia",
       "fr": "Souvenir gravé",
@@ -25636,7 +25922,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Lighting Parts",
+      "cn": "灯饰替换部件",
       "de": "Element zur Wartung der Beleuchtungsanlage",
       "en": "Lighting Parts",
       "fr": "Composant de décoration lumineuse",
@@ -25658,7 +25944,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Carrotlight Pieces",
+      "cn": "携带式荧光棒部件",
       "de": "Leuchtstabbestandteil",
       "en": "Carrotlight Pieces",
       "fr": "Composant de bâton lumineux",
@@ -25680,7 +25966,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Cleaner Upgrade Component",
+      "cn": "清扫机改良部件",
       "de": "Bestandteil für verbesserten Reiniger",
       "en": "Cleaner Upgrade Component",
       "fr": "Composant d'unité de nettoyage",
@@ -25702,7 +25988,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Audio Recording Component",
+      "cn": "录音协助机开发部件",
       "de": "Element des Aufnahme-Supports",
       "en": "Audio Recording Component",
       "fr": "Composant d'unité d'enregistrement sonore",
@@ -25724,7 +26010,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Parasital Infection Protection Suit Component",
+      "cn": "气密性防护服部件",
       "de": "Schutzanzugdichtungselement",
       "en": "Parasital Infection Protection Suit Component",
       "fr": "Élément étanche de combinaison de protection",
@@ -25746,7 +26032,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Occult Paraphernalia",
+      "cn": "寻找刺激用的工具",
       "de": "Abenteuerspielzeugelement",
       "en": "Occult Paraphernalia",
       "fr": "Ustensile étrange et excitant",
@@ -25768,7 +26054,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Cookbook Printing Paraphernalia",
+      "cn": "印刷菜谱的工具",
       "de": "Rezeptdruckutensil",
       "en": "Cookbook Printing Paraphernalia",
       "fr": "Ustensile d'imprimerie",
@@ -25790,7 +26076,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Carrot Chiller Component",
+      "cn": "修理冷冻器的部件",
       "de": "Karottenfrosterelement",
       "en": "Carrot Chiller Component",
       "fr": "Composant de congélateur",
@@ -25812,7 +26098,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Loporrit's Gathering Tool Component",
+      "cn": "修理采集工具的部件",
       "de": "Pilzmesserzubehör",
       "en": "Loporrit's Gathering Tool Component",
       "fr": "Composant d'outil de récolte",
@@ -25834,7 +26120,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Popular Kitchen Goods",
+      "cn": "缺少的烹饪用品",
       "de": "Kochutensil",
       "en": "Popular Kitchen Goods",
       "fr": "Ustensile de cuisine",
@@ -25856,7 +26142,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "“Exercise Equipment”",
+      "cn": "健身用品",
       "de": "Sportutensil",
       "en": "“Exercise Equipment”",
       "fr": "Équipement de musculation",
@@ -25878,7 +26164,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Paint-mixer's Toolbox",
+      "cn": "涂料调和用品",
       "de": "Farbutensil",
       "en": "Paint-mixer's Toolbox",
       "fr": "Article de peinture",
@@ -25900,7 +26186,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Super Sudsy Soap Bars",
+      "cn": "超强力洗涤剂",
       "de": "Extrastarker Farbreiniger",
       "en": "Super Sudsy Soap Bars",
       "fr": "Article de produit détachant",
@@ -25922,7 +26208,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Fungi Fighter",
+      "cn": "对菌类兵器",
       "de": "Explosives Fungizid",
       "en": "Fungi Fighter",
       "fr": "Composant d'explosif",
@@ -25944,7 +26230,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Fashionable Thingums",
+      "cn": "时尚饰品",
       "de": "Modeaccessoire",
       "en": "Fashionable Thingums",
       "fr": "Accessoire de mode",
@@ -25966,7 +26252,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
@@ -25988,7 +26274,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
@@ -26010,7 +26296,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
@@ -26032,7 +26318,7 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
@@ -26054,7 +26340,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
@@ -26076,7 +26362,7 @@
     "level": 570,
     "maxQuality": 9028,
     "name": {
-      "cn": "Connoisseur's Chair",
+      "cn": "面向收藏家的座椅",
       "de": "Sammler-Holzstuhl",
       "en": "Connoisseur's Chair",
       "fr": "Chaise en bois de dilettante",
@@ -26098,7 +26384,7 @@
     "level": 580,
     "maxQuality": 11154,
     "name": {
-      "cn": "Connoisseur's Marimba",
+      "cn": "面向收藏家的马林巴琴",
       "de": "Sammler-Marimba",
       "en": "Connoisseur's Marimba",
       "fr": "Marimba de dilettante",
@@ -26120,7 +26406,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Fishing Rod",
+      "cn": "研究者钓竿",
       "de": "Ermittler-Angelrute",
       "en": "Indagator's Fishing Rod",
       "fr": "Canne à pêche d'indagator",
@@ -26142,7 +26428,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Grinding Wheel",
+      "cn": "研究者砂轮机",
       "de": "Ermittler-Schleifrad",
       "en": "Indagator's Grinding Wheel",
       "fr": "Meule d'indagator",
@@ -26164,7 +26450,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Spinning Wheel",
+      "cn": "研究者纺车",
       "de": "Ermittler-Spinnrad",
       "en": "Indagator's Spinning Wheel",
       "fr": "Rouet d'indagator",
@@ -26186,7 +26472,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Earrings of Crafting",
+      "cn": "研究者巧匠耳坠",
       "de": "Ermittler-Ohrringe des Handwerks",
       "en": "Indagator's Earrings of Crafting",
       "fr": "Boucles d'oreilles des créations d'indagator",
@@ -26208,7 +26494,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Necklace of Crafting",
+      "cn": "研究者巧匠项链",
       "de": "Ermittler-Halsband des Handwerks",
       "en": "Indagator's Necklace of Crafting",
       "fr": "Collier des créations d'indagator",
@@ -26230,7 +26516,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Bracelet of Crafting",
+      "cn": "研究者巧匠手镯",
       "de": "Ermittler-Armreif des Handwerks",
       "en": "Indagator's Bracelet of Crafting",
       "fr": "Bracelet des créations d'indagator",
@@ -26252,7 +26538,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Ring of Crafting",
+      "cn": "研究者巧匠戒指",
       "de": "Ermittler-Ring des Handwerks",
       "en": "Indagator's Ring of Crafting",
       "fr": "Bague des créations d'indagator",
@@ -26274,7 +26560,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Partisan",
+      "cn": "绯光游击枪",
       "de": "Lupercus-Partisane",
       "en": "Rubellux Partisan",
       "fr": "Pertuisane Rubeus",
@@ -26296,7 +26582,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Bow",
+      "cn": "绯光战弓",
       "de": "Lupercus-Bogen",
       "en": "Rubellux Bow",
       "fr": "Arc Rubeus",
@@ -26318,7 +26604,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Cane",
+      "cn": "绯光牧杖",
       "de": "Lupercus-Stock",
       "en": "Rubellux Cane",
       "fr": "Canne Rubeus",
@@ -26340,7 +26626,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Rod",
+      "cn": "绯光法杖",
       "de": "Lupercus-Stab",
       "en": "Rubellux Rod",
       "fr": "Sceptre Rubeus",
@@ -26362,7 +26648,7 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Lumber",
+      "cn": "家用獭獭喷泉部件",
       "de": "Material für einen Garten-Otterborn",
       "en": "Smaller Water Otter Fountain Lumber",
       "fr": "Matériaux pour fontaine ressourçante de jardin",
@@ -26374,6 +26660,248 @@
     "qualityModifier": 100,
     "recipeId": 35491,
     "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Spear",
+      "de": "Diadochen-Speer",
+      "en": "Diadochos Spear",
+      "fr": "Hast de diadoque",
+      "ja": "ディアドコス・スピア"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35502,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Compound Bow",
+      "de": "Diadochen-Kompositbogen",
+      "en": "Diadochos Compound Bow",
+      "fr": "Arc à poulies de diadoque",
+      "ja": "ディアドコス・コンパウンドボウ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35503,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Ring of Fending",
+      "de": "Diadochen-Ring der Verteidigung",
+      "en": "Diadochos Ring of Fending",
+      "fr": "Bague-armure de protecteur de diadoque",
+      "ja": "ディアドコス・ディフェンダーアーマーリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35569,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Ring of Slaying",
+      "de": "Diadochen-Ring des Schlachtens",
+      "en": "Diadochos Ring of Slaying",
+      "fr": "Bague-armure d'attaquant de diadoque",
+      "ja": "ディアドコス・アタッカーアーマーリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35570,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Ring of Aiming",
+      "de": "Diadochen-Ring des Zielens",
+      "en": "Diadochos Ring of Aiming",
+      "fr": "Bague-armure de pisteur de diadoque",
+      "ja": "ディアドコス・レンジャーアーマーリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35571,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Ring of Healing",
+      "de": "Diadochen-Ring der Heilung",
+      "en": "Diadochos Ring of Healing",
+      "fr": "Bague-armure de soigneur de diadoque",
+      "ja": "ディアドコス・ヒーラーアーマーリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35572,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 14040,
+    "name": {
+      "cn": "Diadochos Ring of Casting",
+      "de": "Diadochen-Ring der Magie",
+      "en": "Diadochos Ring of Casting",
+      "fr": "Bague-armure d'incantateur de diadoque",
+      "ja": "ディアドコス・キャスターアーマーリング"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35573,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4488,
+    "durability": 35,
+    "level": 640,
+    "maxQuality": 9090,
+    "name": {
+      "cn": "Dark Cherry Lumber",
+      "de": "Traubenkirsch-Bauholz",
+      "en": "Dark Cherry Lumber",
+      "fr": "Madrier de cerisier noir",
+      "ja": "ブラックチェリー材"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35574,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4620,
+    "durability": 60,
+    "level": 620,
+    "maxQuality": 12040,
+    "name": {
+      "cn": "Connoisseur's Picture Frame",
+      "de": "Sammler-Bilderrahmen",
+      "en": "Connoisseur's Picture Frame",
+      "fr": "Cadre de dilettante",
+      "ja": "好事家向けのピクチャーフレーム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35600,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5280,
+    "durability": 60,
+    "level": 625,
+    "maxQuality": 13050,
+    "name": {
+      "cn": "Connoisseur's Bookshelf",
+      "de": "Sammler-Bücherregal",
+      "en": "Connoisseur's Bookshelf",
+      "fr": "Bibliothèque de dilettante",
+      "ja": "好事家向けのブックシェルフ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35608,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 8800,
+    "durability": 60,
+    "level": 641,
+    "maxQuality": 18040,
+    "name": {
+      "cn": "Uncharted Course Lumber",
+      "de": "Gymnastikutter-Bauholz",
+      "en": "Uncharted Course Lumber",
+      "fr": "Poutre pour l'accrobranche insulaire",
+      "ja": "アスレチックシップの建築用部材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35616,
+    "stars": 4,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   }

@@ -15,6 +15,38 @@
     vm.cancel = cancel;
     vm.canImport = canImport;
 
+    var crafterLevel = $modalInstance.class.level
+
+    // 版本更新，技能升级记得更新
+    // var crafterLevel = 60
+    var basicSynth = [1, 31]
+    var carefulSynthesis = [62, 82]
+    var rapidSynthesis = [9, 63]
+    var groundwork = [72, 86]
+    var levelAction = [basicSynth, carefulSynthesis, rapidSynthesis, groundwork]
+    var levelActionName = ['basicSynth', 'carefulSynthesis', 'rapidSynthesis', 'groundwork']
+    var deleteActionIndex = levelAction
+      .map((actionGroups) => {
+        var remain = actionGroups.reduce(
+          (a, b) => (crafterLevel >= b ? b : a),
+          actionGroups[0]
+        )
+        var remainIndex = actionGroups.indexOf(remain)
+        return actionGroups.map((action, index) =>
+          index === remainIndex ? -1 : index
+        )
+      })
+      var deleteAction = deleteActionIndex.map((deleteAction, nameIndex) => {
+        var actionName = levelActionName[nameIndex]
+        return deleteAction.map((actionIndex,index) => {
+          if (!~actionIndex) {
+            return 0
+          } else {
+            return index === 0 ? actionName : actionName + (index + 1)
+          }
+        })
+      }).reduce((a,b)=>a.concat(b))
+
     //////////////////////////////////////////////////////////////////////////
 
     function importMacro() {
@@ -51,7 +83,8 @@
           }
         }
       }
-
+      var newSequence = newSequence.filter(e=>!deleteAction.includes(e))
+      //console.log(deleteAction, newSequence)
       if (newSequence.length === 0) {
         window.alert("Error: Invalid macro synth sequence.");
         return undefined;
